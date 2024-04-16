@@ -15,7 +15,7 @@
     display: none;
 }
 body{
-    background-image: url(/assets/img/abstract-comics-frame-illustration-background-pop-art.jpg);
+    background-image: url(./assets/img/abstract-comics-frame-illustration-background-pop-art.jpg);
     background-size: 100%;
     background-repeat:unset;
 }
