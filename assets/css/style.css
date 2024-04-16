@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a{
+    font-family: "Bangers", system-ui;
+}
+.row{
+    display: none;
+}
+body{
+    background-image: url(/assets/img/abstract-comics-frame-illustration-background-pop-art.jpg);
+    background-size: 100%;
+    background-repeat:unset;
+}
+/* #136070
+650016 */
+h1{
+    font-family: "Bangers", system-ui;
+    color: #702313;
+    text-decoration:overline;
+};
+
+.btn{
+background-color: #702313;
+}
+
+.containercard{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
